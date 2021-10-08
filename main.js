@@ -1,0 +1,1 @@
+javascript foreach with index
